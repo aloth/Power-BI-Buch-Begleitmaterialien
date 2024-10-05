@@ -2,13 +2,13 @@
 
 Willkommen im offiziellen Repository für ergänzende Ressourcen zum Buch "Datenvisualisierung mit Power BI" von Alexander Loth und Peter Vogel.
 
-![Datenvisualisierung mit Power BI Buchcover](https://www.alexloth.com/wp-content/uploads/2021/11/Power-BI-Cover-3D.png)
+![Datenvisualisierung mit Power BI Buchcover](https://alexloth.com/wp-content/uploads/2021/11/Power-BI-Cover-3D.png)
 
 ## Über das Buch
 
 "Datenvisualisierung mit Power BI" ist das Standardwerk für alle, die ihre Daten effektiv visualisieren und analysieren möchten. Es bietet einen praxisnahen Einstieg in die Welt der Datenvisualisierung mit Power BI und richtet sich sowohl an Einsteiger als auch an fortgeschrittene Anwender.
 
-[Mehr Informationen und Bestellmöglichkeiten finden Sie hier](https://www.alexloth.com/power-bi-buch/)
+[Mehr Informationen und Bestellmöglichkeiten finden Sie hier](https://alexloth.com/power-bi-buch)
 
 ## Inhalt des Repositories
 
@@ -34,7 +34,7 @@ Der Inhalt dieses Repositories ist unter der MIT-Lizenz lizenziert. Weitere Deta
 
 ## Kontakt
 
-Für Fragen zum Buch oder zu diesem Repository öffnen Sie bitte ein [Issue](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/issues) oder kontaktieren Sie Alexander Loth über [seine Website](https://www.alexloth.com).
+Für Fragen zum Buch oder zu diesem Repository öffnen Sie bitte ein [Issue](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/issues) oder kontaktieren Sie Alexander Loth über [seine Website](https://alexloth.com).
 
 ---
 
