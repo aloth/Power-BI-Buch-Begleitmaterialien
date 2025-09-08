@@ -1,16 +1,14 @@
 # Datenvisualisierung mit Power BI – Offizielle Begleitmaterialien
 
 [![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg)](LICENSE)
-[![GitHub issues](https://img.shields.io/github/issues/aloth/Power-BI-Buch-Begleitmaterialien)](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/issues)
+[![Website zum Buch](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/power-bi-buch/)
 [![Follow on X](https://img.shields.io/twitter/follow/DasBuch?style=social)](https://x.com/DasBuch)
 
 > **Offizielle Beispieldateien, Datensätze und Ressourcen zum Bestseller *Datenvisualisierung mit Power BI* – alles, was Sie brauchen, um die Konzepte aus dem Buch direkt auszuprobieren.**
 
-![Buchcover: Datenvisualisierung mit Power BI](https://alexloth.com/wp-content/uploads/2021/11/Power-BI-Cover-3D.png)
-
-Willkommen im offiziellen Repository für die Begleitmaterialien zum Buch **"Datenvisualisierung mit Power BI"** von Alexander Loth und Peter Vogel, erschienen im mitp-Verlag.
-
-Dieses Repository ist die zentrale Quelle für alle Beispieldateien, Datensätze und Arbeitsmappen, die im Buch referenziert werden.
+<p align="center">
+  <img src="https://alexloth.com/wp-content/uploads/2021/11/Power-BI-Cover-3D.png" alt="Book cover: Datenvisualisierung mit Power BI by Alexander Loth" width="420" />
+</p>
 
 ---
 
@@ -75,13 +73,13 @@ Fragen, Fehler oder Ideen? Wir freuen uns über Ihre Mithilfe!
 Wenn Sie Inhalte aus *Datenvisualisierung mit Power BI* in wissenschaftlichen Arbeiten verwenden, nutzen Sie bitte diesen BibTeX-Eintrag:
 
 ```bibtex
-@book{LothVogel2022,
-  author    = {Alexander Loth and Peter Vogel},
-  title     = {Datenvisualisierung mit Power BI},
-  publisher = {mitp},
-  year      = {2022},
-  isbn      = {978-3-7475-0386-7},
-  url       = {https://alexloth.com/power-bi-buch/}
+@book{loth_2022_powerbi,
+	title        = {Datenvisualisierung mit Power BI},
+	author       = {Loth, Alexander and Vogel, Peter},
+	year         = {2022},
+	publisher    = {MITP-Verlags GmbH \& Co. KG},
+	isbn         = {978-3-7475-0386-7},
+	url          = {https://alexloth.com/power-bi-buch/}
 }
 ```
 
@@ -96,7 +94,10 @@ Diese Materialien stehen unter der [MIT-Lizenz](LICENSE).
 ## 👤 Autoren
 
 **Alexander Loth** – Digital Strategist und Executive Advisor bei Microsoft, ehemaliger CERN-Forscher, MBA von der Frankfurt School, Autor mehrerer Fachbücher zu Datenvisualisierung, digitaler Strategie und KI.
-[Website](https://alexloth.com/) • [LinkedIn](https://www.linkedin.com/in/aloth/) • [X](https://x.com/xlth)
+
+[![Website](https://img.shields.io/badge/Website-alexloth.com-blue?style=flat-square)](https://alexloth.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aloth-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aloth/)
+[![X (Twitter)](https://img.shields.io/badge/Follow-@xlth-black?style=flat-square&logo=x)](https://x.com/xlth)
 
 **Peter Vogel** – Experimentalphysiker, seit 2017 Berater für Digitalisierung und Daten, unterstützt Konzerne beim Aufbau von Datenstrategien und der Nutzung moderner Analyse-Plattformen.
 
