@@ -24,25 +24,25 @@ Dieses Buch ist Ihr praxisnaher Leitfaden für den Einstieg und das Vertiefen vo
 
 ## 📂 Inhalte des Repositories
 
-✔ **.pbix-Beispiele** – Fertige Power BI-Berichte aus dem Buch
+Dieses Repository enthält alle Begleitmaterialien, um Ihre Lernerfahrung zu maximieren.
 
-✔ **Datensätze** – u.a. `Financial_Sample.xlsx`
-
-✔ **Zusatzmaterialien** – Spezielle Dateien für bestimmte Kapitel
+✔ **.pbix-Beispieldateien** – Die fertigen Power BI-Berichte aus dem Buch als Referenz.   
+✔ **Datensätze** – Alle Rohdaten, die Sie für die Übungen benötigen, u.a. `Financial_Sample.xlsx`.   
+✔ **Vertiefende READMEs** – Einige Kapitelverzeichnisse enthalten eine `README.md`-Datei mit zusätzlichen Erklärungen, Best Practices und weiterführenden Informationen, die über den Inhalt des Buches hinausgehen.
 
 ### Kapitelzuordnung
 
-| Kapitel | Thema                          | Ordner                                                                                        |
-| ------- | ------------------------------ | --------------------------------------------------------------------------------------------- |
-| 1       | 🚀 Einführung & erste Schritte | [Kapitel\_01](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/tree/main/Kapitel_01) |
-| 2       | 🔌 Datenquellen anlegen        | [Kapitel\_02](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/tree/main/Kapitel_02) |
-| 3       | 📊 Visualisierungen erstellen  | [Kapitel\_03](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/tree/main/Kapitel_03) |
-| 4       | 🧮 Berechnungen & Parameter    | - |
-| 5       | 📈 DAX-Berechnungen            | - |
-| 6       | 🗺️ Kartenvisualisierungen     | [Kapitel\_06](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/tree/main/Kapitel_06) |
-| 7       | 🔬 Analysen & Prognosen        | [Kapitel\_07](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/tree/main/Kapitel_07) |
-| 8       | 🎨 Interaktive Dashboards      | [Kapitel\_08](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/tree/main/Kapitel_08) |
-| 9       | 🌐 Berichte teilen             | - |
+| Kapitel | Thema                                | Ordner                                                                                        |
+| :---: | :--- | :--- |
+| 1 | 🚀 Einführung & erste Schritte | [Kapitel_01](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/tree/main/Kapitel_01) |
+| 2 | 🔌 Datenquellen anlegen | [Kapitel_02](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/tree/main/Kapitel_02) |
+| 3 | 📊 Visualisierungen erstellen | [Kapitel_03](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/tree/main/Kapitel_03) |
+| 4 | 🧮 Berechnungen & Parameter | [Kapitel_04](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/tree/main/Kapitel_04) |
+| 5 | 📈 Dimensionsübergreifende DAX | [Kapitel_05](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/tree/main/Kapitel_05) |
+| 6 | 🗺️ Kartenvisualisierungen | [Kapitel_06](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/tree/main/Kapitel_06) |
+| 7 | 🔬 Analysen & Prognosen | [Kapitel_07](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/tree/main/Kapitel_07) |
+| 8 | 🎨 Interaktive Dashboards | [Kapitel_08](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/tree/main/Kapitel_08) |
+| 9 | 🌐 Teilen & Data Governance | [Kapitel_09](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/tree/main/Kapitel_09) |
 
 ---
 
