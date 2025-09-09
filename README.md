@@ -10,13 +10,23 @@
   <img src="https://alexloth.com/wp-content/uploads/2021/11/Power-BI-Cover-3D.png" alt="Book cover: Datenvisualisierung mit Power BI by Alexander Loth" width="420" />
 </p>
 
+**Buch kaufen:** [mitp](https://www.mitp.de/IT-WEB/KI-Data-Science/Datenvisualisierung-mit-Power-BI.html) · [Amazon](https://www.amazon.de/Datenvisualisierung-mit-Power-BI-Professional/dp/3747503861) · Mehr Infos auf der [Buch-Website](https://alexloth.com/power-bi-buch/)
+
 ---
 
 ## 📚 Über das Buch
 
 Dieses Buch ist Ihr praxisnaher Leitfaden für den Einstieg und das Vertiefen von Power BI: von der Datenanbindung und -aufbereitung über aussagekräftige Visualisierungen bis hin zu DAX, Python-Integration und interaktiven Dashboards.
 
-🔗 [Buch-Webseite](https://alexloth.com/power-bi-buch/)
+🔗 Mehr Infos: [alexloth.com/power-bi-buch](https://alexloth.com/power-bi-buch/)
+
+---
+
+## 🎁 Exklusive Partner-Angebote
+
+Als Leser dieses Buches erhalten Sie Zugang zu exklusiven Vorteilen und Angeboten.
+
+🔗 **[Zu den Partner-Angeboten](PARTNER_ANGEBOTE.md)**
 
 ---
 
@@ -102,5 +112,7 @@ Diese Materialien stehen unter der [MIT-Lizenz](LICENSE).
 **Peter Vogel** – Experimentalphysiker, seit 2017 Berater für Digitalisierung und Daten, unterstützt Konzerne beim Aufbau von Datenstrategien und der Nutzung moderner Analyse-Plattformen.
 
 ---
+
+⭐️ **Tipp:** Wenn Ihnen diese Materialien helfen, geben Sie bitte dem Repository einen **Stern** auf GitHub!
 
 **Vielen Dank**, dass Sie *Datenvisualisierung mit Power BI* lesen und diese Ressourcen nutzen. Viel Erfolg beim Visualisieren Ihrer Daten!
