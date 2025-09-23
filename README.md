@@ -1,6 +1,6 @@
 # Datenvisualisierung mit Power BI – Offizielle Begleitmaterialien
 
-[![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-blue.svg)](LICENSE)
+[![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Website zum Buch](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/power-bi-buch/)
 [![Follow on X](https://img.shields.io/twitter/follow/DasBuch?style=social)](https://x.com/DasBuch)
 
@@ -74,7 +74,6 @@ git clone https://github.com/aloth/Power-BI-Buch-Begleitmaterialien.git
 Fragen, Fehler oder Ideen? Wir freuen uns über Ihre Mithilfe!
 
 * **Fragen / Fehler melden:** [Neues Issue erstellen](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/issues)
-* **Verbesserungen beitragen:** Pull Request willkommen – besonders zu branchenspezifischen Beispielen.
 
 ---
 
@@ -97,7 +96,9 @@ Wenn Sie Inhalte aus *Datenvisualisierung mit Power BI* in wissenschaftlichen Ar
 
 ## 🔗 Lizenz
 
-Diese Materialien stehen unter der [MIT-Lizenz](LICENSE).
+Diese Arbeit unterliegt den Bestimmungen einer [Creative Commons Attribution 4.0 International License](LICENSE).
+
+[![CC BY 4.0](https://i.creativecommons.org/l/by/4.0/88x31.png)](LICENSE).
 
 ---
 
