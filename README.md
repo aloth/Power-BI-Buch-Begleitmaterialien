@@ -82,13 +82,15 @@ Fragen, Fehler oder Ideen? Wir freuen uns über Ihre Mithilfe!
 Wenn Sie Inhalte aus *Datenvisualisierung mit Power BI* in wissenschaftlichen Arbeiten verwenden, nutzen Sie bitte diesen BibTeX-Eintrag:
 
 ```bibtex
-@book{loth_2022_powerbi,
-	title        = {Datenvisualisierung mit Power BI},
-	author       = {Loth, Alexander and Vogel, Peter},
-	year         = {2022},
-	publisher    = {MITP-Verlags GmbH \& Co. KG},
-	isbn         = {978-3-7475-0386-7},
-	url          = {https://alexloth.com/power-bi-buch/}
+@book{loth2022powerbide,
+  title      = {Datenvisualisierung mit Power BI},
+  shorttitle = {Power BI Datenvisualisierung},
+  author     = {Loth, Alexander and Vogel, Peter},
+  year       = {2022},
+  publisher  = {mitp},
+  address    = {Frechen},
+  isbn       = {978-3-7475-0386-7},
+  url        = {https://alexloth.com/power-bi-buch/}
 }
 ```
 
