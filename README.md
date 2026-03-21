@@ -71,9 +71,11 @@ git clone https://github.com/aloth/Power-BI-Buch-Begleitmaterialien.git
 
 ## 👥 Mitwirken & Feedback
 
-Fragen, Fehler oder Ideen? Wir freuen uns über Ihre Mithilfe!
+Fragen, Fehler oder Ideen? Nutzen Sie unsere Issue-Vorlagen:
 
-* **Fragen / Fehler melden:** [Neues Issue erstellen](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/issues)
+* 📖 **[Erratum melden](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/issues/new?template=erratum.yml)** — Fehler im Buch
+* ❓ **[Frage stellen](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/issues/new?template=frage.yml)** — Verständnisfragen zu Kapiteln oder Beispielen
+* 💻 **[Code-Problem melden](https://github.com/aloth/Power-BI-Buch-Begleitmaterialien/issues/new?template=code-problem.yml)** — Probleme mit dem Begleitmaterial
 
 ---
 
