@@ -3,6 +3,7 @@
 [![CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
 [![Website zum Buch](https://img.shields.io/badge/Companion%20Site-alexloth.com-blue)](https://alexloth.com/power-bi-buch/)
 [![Follow on X](https://img.shields.io/twitter/follow/DasBuch?style=social)](https://x.com/DasBuch)
+[![Data Governance](https://img.shields.io/badge/Data_Governance-Kapitel_9-F2C811)](Kapitel_09)
 
 > **Offizielle Beispieldateien, Datensätze und Ressourcen zum Bestseller *Datenvisualisierung mit Power BI* – alles, was Sie brauchen, um die Konzepte aus dem Buch direkt auszuprobieren.**
 
