@@ -101,6 +101,22 @@ Wenn Sie Inhalte aus *Datenvisualisierung mit Power BI* in wissenschaftlichen Ar
 
 ---
 
+## 📚 Weitere Bücher des Autors
+
+Begleitmaterialien zu den übrigen Büchern:
+
+| Buch | Verlag |
+|:---|:---|
+| [Content Creation mit generativer KI](https://github.com/aloth/Generative-KI-Buch-Begleitmaterialien) | mitp 2026 |
+| [KI für Content Creation](https://github.com/aloth/KI-Buch-Begleitmaterialien) | mitp 2024 |
+| [Microsoft Power BI: Das Praxisbuch](https://github.com/aloth/Power-BI-Fabric-Copilot-Buch-Begleitmaterialien) | mitp 2026 |
+| [Datenvisualisierung mit Tableau](https://github.com/aloth/Tableau-Buch-Begleitmaterialien) | mitp 2021 |
+| [Visual Analytics with Tableau](https://github.com/aloth/tableau-book-resources) | Wiley 2019 |
+| [Teach Yourself VISUALLY Power BI](https://github.com/aloth/power-bi-book-resources) | Wiley 2023 |
+| [Decisively Digital](https://github.com/aloth/decisively-digital-book-resources) | Wiley 2021 |
+
+**Hinweis:** [Microsoft Power BI: Das Praxisbuch](https://github.com/aloth/Power-BI-Fabric-Copilot-Buch-Begleitmaterialien) ist der aktueller Band der Power-BI-Reihe.
+
 ## 🔗 Lizenz
 
 Diese Arbeit unterliegt den Bestimmungen einer [Creative Commons Attribution 4.0 International License](LICENSE).
@@ -114,6 +130,7 @@ Diese Arbeit unterliegt den Bestimmungen einer [Creative Commons Attribution 4.0
 **Alexander Loth** – Digital Strategist und Executive Advisor bei Microsoft, ehemaliger CERN-Forscher, MBA von der Frankfurt School, Autor mehrerer Fachbücher zu Datenvisualisierung, digitaler Strategie und KI.
 
 [![Website](https://img.shields.io/badge/Website-alexloth.com-blue?style=flat-square)](https://alexloth.com/)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--9327--6865-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0003-9327-6865)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aloth-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aloth/)
 [![X (Twitter)](https://img.shields.io/badge/Follow-@xlth-black?style=flat-square&logo=x)](https://x.com/xlth)
 
