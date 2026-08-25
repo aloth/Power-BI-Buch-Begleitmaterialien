@@ -86,14 +86,16 @@ Wenn Sie Inhalte aus *Datenvisualisierung mit Power BI* in wissenschaftlichen Ar
 
 ```bibtex
 @book{loth2022powerbide,
-  title      = {Datenvisualisierung mit Power BI},
+  title      = {Datenvisualisierung mit {Power BI}},
   shorttitle = {Power BI Datenvisualisierung},
   author     = {Loth, Alexander and Vogel, Peter},
   year       = {2022},
   publisher  = {mitp},
-  address    = {Frechen},
+  address    = {Frechen, Germany},
   isbn       = {978-3-7475-0386-7},
-  url        = {https://alexloth.com/power-bi-buch/}
+  langid     = {german},
+  url        = {https://alexloth.com/power-bi-buch/},
+  urldate    = {2026-08-25}
 }
 ```
 
